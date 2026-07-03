@@ -146,7 +146,15 @@ export default defineConfig({
 
 3. **部署**:
    - 点击 Deploy 开始部署
+### 自定义域名配置
 
+1. 在 Vercel 项目设置中，选择 `Domains`。
+2. 添加你的域名：`cheese-zzz.cloud`。
+3. 在你的域名服务商处，将根域名的 A 记录指向 Vercel 提供的 IP 地址，或添加 CNAME 记录指向 `cname.vercel-dns.com`。
+4. 等待 DNS 生效后，回到 Vercel 项目中验证域名状态为 `Verified`。
+
+> 你的仓库地址：`https://github.com/Transparent-fish/Mizuki`
+> 站点 URL：`https://cheese-zzz.cloud/`
 ### 部署模式
 
 #### 本地模式
