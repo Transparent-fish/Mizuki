@@ -1,7 +1,7 @@
 import type { SiteConfig } from "../types/config";
 
 // 定义站点语言
-const SITE_LANG = "en"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
+const SITE_LANG = "zh_CN"; // 语言代码，例如：'en', 'zh_CN', 'ja' 等。
 
 export const siteConfig: SiteConfig = {
 	title: "Hoshino's Blog",
@@ -21,12 +21,12 @@ export const siteConfig: SiteConfig = {
 		anime: false, // 番剧页面开关
 		diary: false, // 日记页面开关
 		friends: true, // 友链页面开关
-		projects: true, // 项目页面开关
+		projects: false, // 项目页面开关
 		skills: true, // 技能页面开关
 		timeline: true, // 时间线页面开关
 		albums: false, // 相册页面开关
 		devices: false, // 设备页面开关
-		aiTools: true, // AI 工具页面开关
+		aiTools: false, // AI 工具页面开关
 	},
 
 	// 顶栏标题配置
@@ -113,6 +113,7 @@ export const siteConfig: SiteConfig = {
 				"/assets/desktop-banner/2.webp",
 				"/assets/desktop-banner/3.webp",
 				"/assets/desktop-banner/4.webp",
+				"/assets/desktop-banner/5.webp",
 			], // 桌面横幅图片
 			mobile: [
 				"/assets/mobile-banner/1.webp",
@@ -148,15 +149,12 @@ export const siteConfig: SiteConfig = {
 
 		homeText: {
 			enable: true,
-			title: "わたしの部屋",
+			title: "星野の部屋",
 			switchable: true,
 
 			subtitle: [
-				"特別なことはないけど、君がいると十分です",
-				"今でもあなたは私の光",
-				"君ってさ、知らないうちに私の毎日になってたよ",
-				"君と話すと、なんか毎日がちょっと楽しくなるんだ",
-				"今日はなんでもない日。でも、ちょっとだけいい日",
+				"何気ない日常で、ほんの少しの奇跡を見つける物語",
+				"あなたとの日常は奇跡です",
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
