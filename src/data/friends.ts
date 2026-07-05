@@ -31,7 +31,7 @@ export const friendsData: FriendItem[] = [
 	{
 		id: 3,
 		title: "zengyanbin",
-		imgurl: "https://cdn.luogu.com.cn/upload/usericon//1390480",
+		imgurl: "https://cdn.luogu.com.cn/upload/usericon/1390480.png",
 		desc: "My Classmate & Friends",
 		siteurl: "https://www.luogu.com.cn/user/1390480",
 		tags: ["Classmate", "Friends"],
