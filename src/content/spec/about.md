@@ -1,12 +1,6 @@
 <div align="center">
 
-# 🐠 Hello, I'm Hoshino!
-
-**OIer**
-
-[![Bilibili](https://img.shields.io/badge/B站-Transparent--fish-00A1D6?style=flat&logo=bilibili)](https://space.bilibili.com/3493107286936399)
-[![Luogu](https://img.shields.io/badge/洛谷-Transparent--fish-1E90FF?style=flat&logo=loopy)](https://www.luogu.com.cn/user/766220)
-[![Email](https://img.shields.io/badge/邮箱-luogu_dnj@outlook.com-0078D4?style=flat&logo=microsoft-outlook)](mailto:luogu_dnj@outlook.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1&multiline=true&width=435&lines=Hello%2C+I'm+Hoshino!)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,34 +8,53 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Transparent-fish&theme=radical)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github-stats-extended.vercel.app/api/top-langs?username=Transparent-fish&langs_count=4">
+        <img width="400" src="https://github-stats-extended.vercel.app/api/top-langs?username=Transparent-fish&langs_count=4" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github-stats-extended.vercel.app/api?username=Transparent-fish&show_icons=true&include_all_commits=true">
+        <img width="400" src="https://github-stats-extended.vercel.app/api?username=Transparent-fish&show_icons=true&include_all_commits=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
-## 🎯 当前专注
+<details>
+<summary><h2>📫 联系我</h2></summary>
 
-- 苦命集训
-
-## 📝 学习轨迹
-
-**正在学习**
-- NOIP
-- TS
-
-**未来计划**
-- 冲击 NOIP / 省选
-
-## 📫 联系我
-
-- **邮箱1**: luogu_dnj@outlook.com
-- **邮箱2**: luogu.dnj@gmail.com
+- **邮箱**: luogu_dnj@outlook.com
 - **Bilibili**: [Transparent-fish](https://space.bilibili.com/3493107286936399)
-- **Luogu**: [Cheese-zzz](https://www.luogu.com.cn/user/766220)
-- **Blog**: [dnjin.github.io](https://dnjin.github.io)
-- **Blog2**: [cheese-zzz.cloud](https://cheese-zzz.cloud)
+- **luogu**: [Cheese_zzz](https://www.luogu.com.cn/user/766220)
+- **Blog**: [Blog](https://www.cheese-zzz.cloud/)
 
-## 💡 关于我
+</details>
 
-> 一名OIer，正在 OI 的道路上探索前行。
+<details>
+<summary><h2>💡 工具</h2></summary>
 
----
+<div align="center">
+
+[![Arch](https://skillicons.dev/icons?i=github,arch,vscode,ts,wayland&theme=light)](https://skillicons.dev)
+
+</div>
+
+</details>
+
+## 🖼️ 个人记忆
+
+<div align="center">
+
+<!-- 在这里添加你的个人图片，例如：
+<img src="./memory/photo1.jpg" alt="记忆1" width="300" />
+<img src="./memory/photo2.jpg" alt="记忆2" width="300" />
+-->
+
+*等我有时间盘盘吧，这里记录着一些值得记住的瞬间...*
+
+</div>

@@ -15,6 +15,39 @@ export const timelineData: TimelineItem[] = [
 		featured: false,
 	},
 	{
+		id: "off-site training",
+		title: "前往浙大集训",
+		description:
+			"第一次出省集训",
+		type: "education",
+		startDate: "2025-07-13",
+		endDate: "2025-07-31",
+		color: "#105fde8b",
+		featured: false,
+	},
+	{
+		id: "off-site training",
+		title: "前往北京研学 + 打百度之星",
+		description:
+			"外出游玩",
+		type: "education",
+		startDate: "2025-12-06",
+		endDate: "2025-12-12",
+		color: "#105fde8b",
+		featured: false,
+	},
+	{
+		id: "off-site training",
+		title: "前往上实集训",
+		description:
+			"第一次到上海欸",
+		type: "education",
+		startDate: "2026-08-03",
+		endDate: "2025-08-22",
+		color: "#105fde8b",
+		featured: false,
+	},
+	{
 		id: "study-OI",
 		title: "正式学习 OI",
 		description:
