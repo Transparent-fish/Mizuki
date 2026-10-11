@@ -55,6 +55,6 @@
 <img src="./memory/photo2.jpg" alt="记忆2" width="300" />
 -->
 
-*等我有时间盘盘吧，这里记录着一些值得记住的瞬间...*
+[*这里记录着一些值得记住的瞬间...*](https://drive.google.com/drive/folders/1hDGckeEIZeElZSWotFPPKTjv5k_7-trZ?usp=sharing)
 
 </div>
